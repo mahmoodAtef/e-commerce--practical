@@ -1,5 +1,6 @@
 import 'package:equatable/equatable.dart';
 import 'package:online_store/src/modules/auth/data/models/address.dart';
+import 'package:online_store/src/modules/cart/data/models/order.dart';
 import 'package:online_store/src/modules/cart/data/models/order_item.dart';
 import 'package:online_store/src/modules/store/data/models/product.dart';
 
